@@ -7,7 +7,7 @@
   github: "https://github.com/Jaicharan-2006",
   instagram: "https://www.instagram.com/jaicharan_2006/",
   linkedin: "https://linkedin.com/in/jaicharanm",
-  resume: "/Jaicharan_M_Resume.pdf",
+  resume: "/Jaicharan_M_Resume1.pdf",
   location: "India",
   profileImage: "/profile.webp",
 };
